@@ -124,3 +124,4 @@ _az_debug/
 
 # Ignore temporary test output files.
 /temp/
+/src/containerapp/azext_containerapp/tests/latest/data
